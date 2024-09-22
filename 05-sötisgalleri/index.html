@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Djur</title>
+  </head>
+  <body>
+    <header>
+      <h1>Galleri av söta djur</h1>
+      <p>Klicka på bilderna</p>
+    </header>
+
+    <!-- The four columns -->
+    <div class="row">
+      <div class="column">
+        <img class="preview-image" src="vadur.jpg" alt="Dvärgvädurskanin" />
+      </div>
+      <div class="column">
+        <img class="preview-image" src="katt.jpg" alt="Katt" />
+      </div>
+      <div class="column">
+        <img class="preview-image" src="hund.jpg" alt="Hund" />
+      </div>
+      <div class="column">
+        <img class="preview-image" src="kanin.jpg" alt="Vanlig kanin" />
+      </div>
+    </div>
+
+    <div class="container">
+      <span class="closebtn">&times;</span>
+      <img id="expandedImg" />
+      <div id="imgtext"></div>
+    </div>
+
+    <script src="main.js" defer></script>
+  </body>
+</html>

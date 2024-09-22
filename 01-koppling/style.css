@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 960px;
+  margin: 2rem auto 0;
+  font-family: Arial;
+  text-align: center;
+}
+
+header {
+  text-align: center;
+}
