@@ -13,8 +13,13 @@ header {
   text-align: center;
 }
 
+#kanin {
+  background-color: darkgrey;
+}
+
 button {
-  background-color: lightgreen;
+  background: rgb(255, 243, 192);
+  border-radius: 10px;
   color: black;
   font-size: 1rem;
   font-weight: bold;

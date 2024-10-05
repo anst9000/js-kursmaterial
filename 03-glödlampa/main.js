@@ -1,38 +1,16 @@
-// const lightbulb = document.getElementById("lightbulb")
-// const onButton = document.getElementById("on-button")
-// const offButton = document.getElementById("off-button")
+const rubrik = document.getElementById("rubrik")
+const glodlampa = document.getElementById("glodlampa")
+const paKnapp = document.getElementById("paKnapp")
+const avKnapp = document.getElementById("avKnapp")
 
-onButton.addEventListener("click", function () {
-  lightbulb.src = "bulbon.gif"
+paKnapp.addEventListener("click", function () {
+  glodlampa.src = "glodlampaPa.gif"
+  document.body.style.backgroundColor = "#eeeeee"
+  rubrik.innerHTML = "Nu ser jag igen."
 })
 
-offButton.addEventListener("click", function () {
-  lightbulb.src = "bulboff.gif"
+avKnapp.addEventListener("click", function () {
+  glodlampa.src = "glodlampaAv.gif"
+  document.body.style.backgroundColor = "#777777"
+  rubrik.innerHTML = "Vad mörkt det är."
 })
-
-// Objekt med två attribut:
-// const person = {firstName: "John", lastName: "Doe", age: 28, married: false}
-
-// Lista med strängar:
-const cars = ["Saab", "Volvo", "BMW"]
-
-// Numbers:
-let length = 16
-let weight = 7.5
-
-// String:
-let lastName = "Johnson"
-
-// Booleans
-let x = true
-let y = false
-
-// Object:
-const person = { firstName: "John", lastName: "Doe" }
-
-let times = 4
-times = "hejsan"
-times = false
-
-let myName = "Thomas"
-let yourName = "Sally"

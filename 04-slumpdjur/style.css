@@ -3,61 +3,26 @@
 }
 
 body {
-  margin: 0;
+  max-width: 960px;
+  margin: 2rem auto 0;
   font-family: Arial;
+  text-align: center;
 }
 
 header {
   text-align: center;
 }
 
-/* The grid: Four equal columns of 1fr */
-.row {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 1rem;
-  margin: 0 1rem;
+#kanin {
+  background-color: darkgrey;
 }
 
-/* Style the images inside the grid */
-.column img {
-  opacity: 0.8;
+button {
+  background: rgb(255, 243, 192);
+  border-radius: 10px;
+  color: black;
+  font-size: 1rem;
+  font-weight: bold;
   cursor: pointer;
-  width: 100%;
-}
-
-.column img:hover {
-  opacity: 1;
-}
-
-/* The expanding image container */
-.container {
-  position: relative;
-  display: none;
-  max-width: 800px;
-  margin: 1rem auto 0;
-}
-
-.container img {
-  width: 100%;
-  border: 1px solid black;
-}
-
-/* Expanding image text */
-#imgtext {
-  position: absolute;
-  top: 15px;
-  left: 15px;
-  color: white;
-  font-size: 20px;
-}
-
-/* Closable button inside the expanded image */
-.closebtn {
-  position: absolute;
-  top: 10px;
-  right: 15px;
-  color: white;
-  font-size: 35px;
-  cursor: pointer;
+  padding: 5px 10px;
 }
