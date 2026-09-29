@@ -1,0 +1,99 @@
+body {
+  font-family:
+    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background: #f0f2f5;
+  color: #1a1a1a;
+  margin: 0;
+  padding: 20px;
+}
+.dashboard {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+}
+@media (min-width: 768px) {
+  .dashboard {
+    grid-template-columns: 2fr 1fr;
+  }
+}
+.header-wide {
+  grid-column: 1 / -1;
+  background: #007bff;
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+  margin: 0;
+}
+.card {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+.stats-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+.stat-box {
+  background: #e9ecef;
+  padding: 15px;
+  border-radius: 6px;
+  text-align: center;
+}
+.stat-box h3 {
+  margin: 0;
+  color: #495057;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+}
+.stat-box p {
+  margin: 10px 0 0 0;
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #007bff;
+}
+input,
+select,
+button {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+button {
+  background: #28a745;
+  color: white;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+}
+button:hover {
+  background: #218838;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+li {
+  padding: 12px;
+  border-bottom: 1px solid #eee;
+  display: flex;
+  justify-content: space-between;
+}
+li:last-child {
+  border: none;
+}
+.badge {
+  background: #17a2b8;
+  color: white;
+  padding: 3px 8px;
+  border-radius: 12px;
+  font-size: 0.8rem;
+}

@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="sv">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Labb 11 - XSS-säkerhet</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Lab 11 - Den Säkra Gästboken</h1>
+      <div class="input-group">
+        <input type="text" id="namn-input" placeholder="Ditt namn" />
+        <button id="btn-skicka">Skicka</button>
+      </div>
+
+      <h2>Hälsningar:</h2>
+      <div id="gastbok-flode"></div>
+    </div>
+    <script src="main.js"></script>
+  </body>
+</html>
