@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="sv">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Labb 12 - Smart Food Order</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Restaurang-appen 🍔</h1>
+      <p>Klicka på knapparna för att simulera hur roboten hämtar maten.</p>
+
+      <div class="button-group">
+        <button id="btn-sekventiell">Beställ Sekventiellt (Långsamt)</button>
+        <button id="btn-parallell" class="success">
+          Beställ Parallellt (Snabbt!)
+        </button>
+      </div>
+
+      <div class="status-box">
+        <h3>Status:</h3>
+        <div id="status-flode">Klicka på en knapp för att starta...</div>
+      </div>
+
+      <div id="tids-resultat"></div>
+    </div>
+
+    <script src="main.js"></script>
+  </body>
+</html>

@@ -10,6 +10,7 @@ Välkommen till kursmaterialet! Här hittar du alla kompendier och laborationer 
 - **[JavaScript-02 – REST API](./JavaScript-02%20-%20REST%20API/JavaScript-02%20-%20REST%20API.pdf)**
 - **[JavaScript-03 – AJAX- och Fetch-anrop](./JavaScript-03%20-%20AJAX-%20och%20Fetch-anrop/JavaScript-03%20-%20AJAX-%20och%20Fetch-anrop.pdf)**
 - **[JavaScript-04 – AJAX- och Fetch-exempel](./JavaScript-04%20-%20AJAX-%20och%20Fetch-exempel/JavaScript-04%20-%20AJAX-%20och%20Fetch-exempel.pdf)**
+- **[JavaScript-04b – Async/Await och Axios](./JavaScript-04b%20-%20Async/Await%20och%20Axios/JavaScript-04b%20-%20Async/Await%20och%20Axios.pdf)**
 - **[JavaScript-05 – Postman](./JavaScript-05%20-%20Postman/JavaScript-05%20-%20Postman.pdf)**
 
 ### Del 2: Avancerad JavaScript & Webbläsarens API:er
