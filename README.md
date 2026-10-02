@@ -27,12 +27,12 @@ Välkommen till kursmaterialet! Här hittar du alla kompendier och laborationer 
 - **[JavaScript-12 – Introduktion till React](./Del%203%20-%20Moderna%20Ramverk%20och%20Finalen/JavaScript-12%20-%20Introduktion%20till%20React/JavaScript-12%20-%20Introduktion%20till%20React.pdf)**
 - **[JavaScript-13 – Installation av React](./Del%203%20-%20Moderna%20Ramverk%20och%20Finalen/JavaScript-13%20-%20Installation%20av%20React/JavaScript-13%20-%20Installation%20av%20React.pdf)**
 - **[JavaScript-14 – Avancerad React](./Del%203%20-%20Moderna%20Ramverk%20och%20Finalen/JavaScript-14%20-%20Avancerad%20React/JavaScript-14%20-%20Avancerad%20React.pdf)**
-- **[JavaScript-15 – Introduktion till Vue](./Del%203%20-%20Moderna%20Ramverk%20och%20Finalen/JavaScript-16%20-%20Introduktion%20till%20Vue%20JS/JavaScript-16%20-%20Introduktion%20till%20Vue%20JS.pdf)**
-- **[JavaScript-16 – Introduktion till Angular](./Del%203%20-%20Moderna%20Ramverk%20och%20Finalen/JavaScript-17%20-%20Introduktion%20till%20Angular%20JS/JavaScript-17%20-%20Introduktion%20till%20Angular%20JS.pdf)**
+- **[JavaScript-15 – Introduktion till Vue JS](./Del%203%20-%20Moderna%20Ramverk%20och%20Finalen/JavaScript-16%20-%20Introduktion%20till%20Vue%20JS/JavaScript-16%20-%20Introduktion%20till%20Vue%20JS.pdf)**
+- **[JavaScript-16 – Introduktion till Angular JS](./Del%203%20-%20Moderna%20Ramverk%20och%20Finalen/JavaScript-17%20-%20Introduktion%20till%20Angular%20JS/JavaScript-17%20-%20Introduktion%20till%20Angular%20JS.pdf)**
 
-## 🏆 Kursens Final
+### Del 4 - Slutprojekt & Uppgifter
 
-- **[JavaScript-17 – Slutprojekt](./Del%203%20-%20Moderna%20Ramverk%20och%20Finalen/JavaScript-18%20-%20Slutprojekt/JavaScript-18%20-%20Slutprojekt.pdf)**
+- **[JavaScript-17 – Slutprojekt](./Del%204%20-%20Slutprojekt%20%26%20Uppgifter/JavaScript-18%20-%20Slutprojekt/JavaScript-18%20-%20Slutprojekt.pdf)**
 
 ---
 
