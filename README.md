@@ -6,12 +6,13 @@ Välkommen till kursmaterialet! Här hittar du alla kompendier och laborationer 
 
 ### Del 1 - API-kommunikation & Verktyg
 
+- \*\*[JavaScript-00 – Lär dig JavaScript utan tjafs](./Del%201%20-%20API-kommunikation%20%26%20Verktyg/JavaScript-00%20-%20L%C3%A4r%20dig%20JavaScript%20utan%20tjafs/JavaScript-00%20-%20L%C3%A4r%20dig%20JavaScript%20utan%20tjafs.pdf)
 - **[JavaScript-01 – Moduler](./Del%201%20-%20API-kommunikation%20%26%20Verktyg/JavaScript-01%20%E2%80%93%20Moduler/JavaScript-01%20%E2%80%93%20Moduler.pdf)**
 - **[JavaScript-02 – REST API](./Del%201%20-%20API-kommunikation%20%26%20Verktyg/JavaScript-02%20%E2%80%93%20REST%20API/JavaScript-02%20%E2%80%93%20REST%20API.pdf)**
 - **[JavaScript-03 – AJAX- och Fetch-anrop](./Del%201%20-%20API-kommunikation%20%26%20Verktyg/JavaScript-03%20%E2%80%93%20AJAX-%20och%20Fetch-anrop/JavaScript-03%20%E2%80%93%20AJAX-%20och%20Fetch-anrop.pdf)**
 - **[JavaScript-04 – AJAX- och Fetch-exempel](./Del%201%20-%20API-kommunikation%20%26%20Verktyg/JavaScript-04%20%E2%80%93%20AJAX-%20och%20Fetch-exempel/JavaScript-04%20%E2%80%93%20AJAX-%20och%20Fetch-exempel.pdf)**
-- **[JavaScript-04b – Async/Await och Axios](./Del%201%20-%20API-kommunikation%20%26%20Verktyg/JavaScript-04b%20%E2%80%93%20Async/Await%20och%20Axios/JavaScript-04b%20%E2%80%93%20Async/Await%20och%20Axios.pdf)**
-- **[JavaScript-05 – Postman](./Del%201%20-%20API-kommunikation%20%26%20Verktyg/JavaScript-05%20%E2%80%93%20Postman/JavaScript-05%20%E2%80%93%20Postman.pdf)**
+- **[JavaScript-05 – Async/Await och Axios](./Del%201%20-%20API-kommunikation%20%26%20Verktyg/JavaScript-05%20-%20Async-Await%20och%20Axios/JavaScript-05%20-%20Async-Await%20och%20Axios.pdf)**
+- **[JavaScript-06 – Postman](./Del%201%20-%20API-kommunikation%20%26%20Verktyg/JavaScript-05%20%E2%80%93%20Postman/JavaScript-05%20%E2%80%93%20Postman.pdf)**
 
 ### Del 2 - Avancerad JS och Webbläsarens APIer
 
