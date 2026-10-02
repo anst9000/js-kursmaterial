@@ -35,7 +35,7 @@ Välkommen till kursmaterialet! Här hittar du alla kompendier och laborationer 
 - [js-14 - Installation av React JS](<Del 3 - Moderna Ramverk/js-14 - Installation av React JS/js-14 - Installation av React JS.pdf>)
 - [js-15 - Avancerad React JS](<Del 3 - Moderna Ramverk/js-15 - Avancerad React JS/js-15 - Avancerad React JS.pdf>)
 - [js-16 - Introduktion till Vue JS](<Del 3 - Moderna Ramverk/js-16 - Introduktion till Vue JS/js-16 - Introduktion till Vue JS.pdf>)
-- [js-17 - Introduktion till Angular JS](<Del 3 - Moderna Ramverk/js-17 - Introduktion till Angular JS/js-17 - Introduktion till Angular JS.pdf>)
+- [js-17 - Börja med Angular](<Del 3 - Moderna Ramverk/js-17 - Börja med Angular/js-17 - Börja med Angular.pdf>)
 
 ### Del 4 - Slutprojekt & Uppgifter
 
